@@ -2,7 +2,7 @@
 
 A modern, full-stack bookmark manager built with **Next.js 15**, **Supabase**, and **Tailwind CSS**. Save, organize, and access your bookmarks from anywhere with real-time cross-tab sync and a premium dark UI.
 
-🔗 **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app) _(update after deployment)_
+🔗 **Live Demo:** [smart-bookmark-app-iota-inky.vercel.app](https://smart-bookmark-app-iota-inky.vercel.app)
 
 ---
 
